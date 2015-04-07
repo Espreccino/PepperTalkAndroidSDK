@@ -24,7 +24,7 @@ Add the following to your pom.xml [(more info using m2eclipse)] [4]
 
 Download the latest aar [here] [5]
 
-Detailed instructions on setting up Eclipse with ADT is [here](eclipse_setup.md)
+Detailed instructions on setting up Eclipse with ADT is [here] [9]
 
 [1]: https://console.getpeppertalk.com/ "PepperTalk"
 [2]: https://github.com/Espreccino/PepperTalkAndroidSDK-Examples/blob/master/app/build.gradle "build.gralde"
@@ -34,3 +34,4 @@ Detailed instructions on setting up Eclipse with ADT is [here](eclipse_setup.md)
 [6]: https://github.com/Espreccino/PepperTalkAndroidSDK-Examples/blob/master/app/src/main/java/com/espreccino/peppertalk/sample/gcm/GcmIntentService.java#L30
 [7]: https://github.com/Espreccino/PepperTalkAndroidSDK-Examples/blob/master/app/src/main/java/com/espreccino/peppertalk/sample/gcm/GcmIntentService.java#L32
 [8]: https://github.com/Espreccino/PepperTalkAndroidSDK-Examples/blob/master/app/src/main/AndroidManifest.xml#L24
+[9]: https://github.com/Espreccino/PepperTalkAndroidSDK-Examples/blob/master/eclipse_setup.md
