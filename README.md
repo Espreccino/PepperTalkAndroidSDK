@@ -1,4 +1,6 @@
 # PepperTalkAndroidSDK
+
+[![Join the chat at https://gitter.im/Espreccino/PepperTalkAndroidSDK](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Espreccino/PepperTalkAndroidSDK?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Android SDK for PepperTalk is available as a Gradle dependency. Its available on [maven as an aar](https://search.maven.org/#search%7Cga%7C1%7Cpeppertalk)
 
 Add PepperTalk to your application
