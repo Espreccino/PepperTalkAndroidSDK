@@ -10,21 +10,9 @@ Gradle dependency
 
 [build.gradle] [2]
 
----
-### Adding PepperTalk to eclipse project
----
-Add the following to your pom.xml [(more info using m2eclipse)] [4]
-```xml
-<dependency>
- <groupId>com.espreccino</groupId>
- <artifactId>peppertalk</artifactId>
- <version>0.4.14</version>
-</dependency>
-````
+# Complete Documentation
 
-Download the latest aar [here] [5]
-
-Detailed instructions on setting up Eclipse with ADT is [here] [9]
+Please refer to the documentation at [developers.getpeppertalk.com](http://developers.getpeppertalk.com/android/)
 
 [1]: https://console.getpeppertalk.com/ "PepperTalk"
 [2]: https://github.com/Espreccino/PepperTalkAndroidSDK-Examples/blob/master/app/build.gradle "build.gralde"
